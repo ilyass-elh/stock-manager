@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.opc
+*.mssccprj.scc
+
+# Build results
+[Dd]ebug/
+[Bb]in/
+[Oo]bj/
+
+# MSTest
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+generate_history.ps1
+
+work_log.txt
