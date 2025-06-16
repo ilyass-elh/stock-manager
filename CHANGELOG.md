@@ -428,3 +428,4 @@
 - 2025-06-14 16:32:00 : Optimize SQL queries for performance
 - 2025-06-15 18:35:00 : Add supplier management feature
 - 2025-06-16 13:57:00 : Update README documentation
+- 2025-06-16 16:34:00 : Fix styling issues in navbar
