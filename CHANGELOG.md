@@ -443,3 +443,4 @@
 - 2025-06-19 11:15:00 : Add input validation
 - 2025-06-19 12:08:00 : Optimize image assets
 - 2025-06-19 15:03:00 : Refactor supplier controller
+- 2025-06-19 18:57:00 : Fix typo in menu
