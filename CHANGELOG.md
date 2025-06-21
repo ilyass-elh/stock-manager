@@ -573,3 +573,4 @@
 - 2025-06-20 14:28:00 : Add unit tests for users
 - 2025-06-21 09:16:00 : Clean up legacy code
 - 2025-06-21 11:29:00 : Update dependencies
+- 2025-06-21 18:10:00 : Fix responsive design on mobile
