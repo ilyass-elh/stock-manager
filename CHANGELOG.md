@@ -571,3 +571,4 @@
 - 2025-06-17 20:16:00 : Fix styling issues in navbar
 - 2025-06-18 20:30:00 : Prepare for v1.0 release
 - 2025-06-20 14:28:00 : Add unit tests for users
+- 2025-06-21 09:16:00 : Clean up legacy code
