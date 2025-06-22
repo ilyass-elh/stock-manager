@@ -446,3 +446,4 @@
 - 2025-06-19 18:57:00 : Fix typo in menu
 - 2025-06-19 20:36:00 : Add comments to complex logic
 - 2025-06-20 09:33:00 : Update build scripts
+- 2025-06-22 09:55:00 : Fix navigation routing
