@@ -518,3 +518,4 @@
 - 2025-06-21 15:00:00 : Optimize image assets
 - 2025-06-22 12:38:00 : Refactor supplier controller
 - 2025-06-22 19:17:00 : Fix typo in menu
+- 2025-06-23 13:34:00 : Add comments to complex logic
