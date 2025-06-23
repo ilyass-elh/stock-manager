@@ -519,3 +519,4 @@
 - 2025-06-22 12:38:00 : Refactor supplier controller
 - 2025-06-22 19:17:00 : Fix typo in menu
 - 2025-06-23 13:34:00 : Add comments to complex logic
+- 2025-06-23 15:11:00 : Update build scripts
