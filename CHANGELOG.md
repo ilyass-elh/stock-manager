@@ -522,3 +522,4 @@
 - 2025-06-23 15:11:00 : Update build scripts
 - 2025-06-24 16:38:00 : Fix navigation routing
 - 2025-06-24 16:43:00 : Add search functionality
+- 2025-06-24 17:57:00 : Improve security headers
