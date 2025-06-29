@@ -460,3 +460,4 @@
 - 2025-06-26 18:12:00 : Update README documentation
 - 2025-06-27 09:31:00 : Fix styling issues in navbar
 - 2025-06-28 18:33:00 : Prepare for v1.0 release
+- 2025-06-29 12:49:00 : Add unit tests for users
