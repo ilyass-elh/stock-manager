@@ -533,3 +533,4 @@
 - 2025-06-29 18:49:00 : Add supplier management feature
 - 2025-06-29 20:45:00 : Update README documentation
 - 2025-06-29 22:23:00 : Fix styling issues in navbar
+- 2025-06-30 21:01:00 : Prepare for v1.0 release
